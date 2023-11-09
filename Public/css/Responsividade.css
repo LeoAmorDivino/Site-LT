@@ -1,0 +1,185 @@
+
+
+  @media (max-width: 650px) { /* responsividade para celular */
+   
+    #botao1{
+      width: 30px;
+      height: 30px;
+      background-color: maroon;
+      position: absolute;
+      left: 300px;
+      top: 40px;
+      color: black;
+    }
+    #botao2{
+      width: 30px;
+      height: 30px;
+      background-color: maroon;
+      position: absolute;
+      left: 350px; 
+      top: 40px;
+      color: black;
+    }
+    #botao3{
+      width: 30px;
+      height: 30px;
+      background-color: maroon;
+      position: absolute;
+      left: 300px; 
+      top: 90px;
+      color: black;
+    }
+    #botao4{
+      width: 30px;
+      height: 30px;
+      background-color: maroon;
+      position: absolute;
+      left: 350px; 
+      top: 90px;
+      color: black;
+    }
+
+
+
+    #fundo2 {
+      width: 770px;
+      height: 1400px;
+      background-color: maroon;
+      position: absolute;
+      top: 840px;
+    }   
+   
+    #reg1 {
+      width: 600px;
+      height: 650px;
+      background-color: maroon;
+      position: absolute;
+      left: 50px;
+      top: 750px;
+      color: white;
+    }
+    #reg2 {
+      width: 600px;
+      height: 650px;
+      background-color: maroon;
+      position: absolute;
+      left: 50px;
+      top: 50px;
+      color: white;
+      font-size: 35px;
+      text-align: justify;
+
+    }
+#fundo3 {
+  width: 770px;
+  height: 880px;
+  background-color: FireBrick;
+  position: absolute;
+  top: 2270px;
+}
+
+
+#sub7 {
+  width: 320px;
+  height: 320px;
+  background-color: FireBrick;
+  position: absolute;
+  left: 44px;
+  top: 500px;
+  color: white;
+}
+
+#sub8 {
+  width: 320px;
+  height: 320px;
+  background-color: FireBrick;
+  position: absolute;
+  left: 408px;
+  top: 500px;
+  color: white;
+}
+
+
+#fundo4 {
+  width: 770px;
+  height: 1800px;
+  background-color: maroon;
+  color: white;
+  position: absolute;
+  top: 3200px;
+}
+ #reg3{
+      width: 700px;
+      height: 800px;
+      background-color: maroon;
+      position: absolute;
+      top: 950px ;
+    }
+#reg4 {
+      width: 600px;
+      height: 600px;
+      background-color: maroon;
+      position: absolute;
+      left: 20px;
+      top: 90px;
+    }
+
+    #rodape {
+      width: 700px;
+      height: 40px;
+      background-color: black;
+      position: relative;
+      top: 1690px;
+     
+      color: white;
+    }
+
+    #fundo1 {
+      width: 770px;
+      height: 800px;
+      position: absolute;
+      background-image: url("https://img.freepik.com/fotos-gratis/ciencia-da-biotecnologia-genetica-do-dna-com-remix-de-tecnologia-revolucionaria-das-maos-do-cientista_53876-126745.jpg?w=1060&t=st=1691960057~exp=1691960657~hmac=80f1d113f27b52023f459275f73b7ae2af60458915d7ca610b624b999a516da4")
+    }
+
+
+    #carrossel {
+      width: 400px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      position: absolute;
+      top: 200px;
+      left: 20px;
+    }
+
+    #caracol{
+      width: 400px;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      position: absolute;
+      top: 400px;
+      left: 20px;
+     }
+  
+     #texto2{
+      font-size: 30px;
+      text-align: center;
+       color: brown ;
+      position: absolute;
+       top: 700px;
+       left: 20px;
+     }
+    
+     #texto1{
+      font-size: 30px;
+      text-align: left;
+      color: brown ;
+      position: absolute;
+       top: 400px;
+       left: 20px;
+       
+     }
+
+  }
+

@@ -1,0 +1,266 @@
+   * {
+      font-family: Geneva;
+    }
+
+    /*Cabeçalho com nome da clinica, onde foi usado seletor individual*/
+    #Cabecalho {
+      width: 1500px;
+      height: 120px;
+      background-color: white;
+      color: maroon;
+      position: fixed;
+      z-index: 999999;
+      top: 0px;
+    }
+    #botao1{
+      width: 200px;
+      height: 40px;
+      background-color: maroon;
+      position: absolute;
+      left: 500px;
+      top: 40px;
+    }
+    #botao2{
+      width: 200px;
+      height: 40px;
+      background-color: maroon;
+      position: absolute;
+      left: 750px; 
+      top: 40px;
+    }
+    #botao3{
+      width: 200px;
+      height: 40px;
+      background-color: maroon;
+      position: absolute;
+      left: 1000px; 
+      top: 40px;
+    }
+    #botao4{
+      width: 200px;
+      height: 40px;
+      background-color: maroon;
+      position: absolute;
+      left: 1250px; 
+      top: 40px;
+    }
+      #botao1,#botao2,#botao3,#botao4{
+        border-radius: 100px;
+        color:white;
+        text-align: center;
+     }
+
+     
+
+     #fundo1 {
+      width: 1500px;
+      height: 870px;
+      position: absolute;
+      background-image: url("https://img.freepik.com/fotos-gratis/ciencia-da-biotecnologia-genetica-do-dna-com-remix-de-tecnologia-revolucionaria-das-maos-do-cientista_53876-126745.jpg?w=1060&t=st=1691960057~exp=1691960657~hmac=80f1d113f27b52023f459275f73b7ae2af60458915d7ca610b624b999a516da4")
+    }
+
+  
+
+    /* divs que contem as especialiadaes e preços das consultas */
+    #reg1 {
+      width: 600px;
+      height: 650px;
+      background-color: maroon;
+      position: absolute;
+      left: 100px;
+      top: 0px;
+      color: white;
+    }
+/* div que contem as informaçoes da clinica e esta do lado da div anterior*/
+    #reg2 {
+      width: 600px;
+      height: 650px;
+      background-color: maroon;
+      position: absolute;
+      left: 800px;
+      top: 0px;
+      color: white;
+      font-size: 35px;
+      text-align: justify;
+
+    }
+
+    /* Segundo campo de fundo */
+    #fundo2 {
+      width: 1500px;
+      height: 450px;
+      background-color: maroon;
+      position: absolute;
+      top: 800px;
+    }
+
+    /* subdivisoes com imagens,videos e informaçoes dos serviços oferecidos pela clinica */
+    /* retangulo 1 */
+    #sub1 {
+      border-width: 500px;
+      width: 800px;
+      height: 800px;
+      position: absolute;
+      left: 500px;
+      top: 55px;
+    }
+
+    /* retangulo 2 */
+    #sub2 {
+      width: 320px;
+      height: 500px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 408px;
+      top: 44px;
+      color: white;
+    }
+
+    /* retangulo 3 */
+    #sub3 {
+      width: 320px;
+      height: 500px;
+      background-color: LightYellow;
+      position: absolute;
+      left: 772px;
+      top: 44px;
+    }
+
+    /* retangulo 4 */
+    #sub4 {
+      width: 320px;
+      height: 500px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 1136px;
+      top: 44px;
+      color: white;
+    }
+
+    #sub1,#sub2,#sub3,#sub4 {
+      text-align: center;
+    }
+
+    #fundo3 {
+      width: 1500px;
+      height: 400px;
+      background-color: FireBrick;
+      position: absolute;
+      top: 1510px;
+    }
+
+    #sub5 {
+      width: 320px;
+      height: 320px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 44px;
+      top: 44px;
+      color: white;
+    }
+
+    #sub6 {
+      width: 320px;
+      height: 320px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 408px;
+      top: 44px;
+      color: white;
+    }
+
+    #sub7 {
+      width: 320px;
+      height: 320px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 772px;
+      top: 44px;
+      color: white;
+    }
+
+    #sub8 {
+      width: 320px;
+      height: 320px;
+      background-color: FireBrick;
+      position: absolute;
+      left: 1136px;
+      top: 44px;
+      color: white;
+    }
+
+    #fundo4 {
+      width: 1500px;
+      height: 900px;
+      background-color: maroon;
+      color: white;
+      position: absolute;
+      top: 1955px;
+    }
+    #reg3{
+      width: 600px;
+      height: 600px;
+      background-color: maroon;
+      position: absolute;
+      left: 44px;
+      top: 150px ;
+    }
+
+    #reg4 {
+      width: 600px;
+      height: 600px;
+      background-color: maroon;
+      position: absolute;
+      left: 750px;
+      top: 90px;
+    }
+
+    #rodape {
+      width: 1500px;
+      height: 40px;
+      background-color: black;
+      position: relative;
+      top: 790px;
+      left: -750px;
+      color: white;
+    }
+
+    table {
+      position: absolute;
+      top: 60px;
+    }
+    th,
+    td {
+      text-align: center;
+    }
+    input{
+      border-radius: 20px;
+      box-shadow: 3px 3px;
+    }
+
+#texto2{
+  font-size: 30px;
+  text-align: center;
+   color: brown ;
+  position: absolute;
+   top: 460px;
+ }
+
+ #texto1{
+  font-size: 30px;
+  text-align: center;
+  color: brown ;
+  position: absolute;
+   top: 250px;
+   left: 950px;
+ }
+
+ #bot{
+  background-color: white;
+  width: 30px;
+  height: 30px;
+  font-size: 10px;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+ }
